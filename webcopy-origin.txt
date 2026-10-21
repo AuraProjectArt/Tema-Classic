@@ -1,0 +1,2176 @@
+Uri: https://i.pinimg.com/736x/a8/ae/ed/a8aeede53361aaf37d4bf747fefbcd4e.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\736x\a8\ae\ed\a8aeede53361aaf37d4bf747fefbcd4e.jpg
+Content Type: image/jpeg
+
+Uri: https://i.pinimg.com/736x/ad/fc/93/adfc93329d7fa5d89bca3b0f43cf6954.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\736x\ad\fc\93\adfc93329d7fa5d89bca3b0f43cf6954.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/Add On KirimDigi.png
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\Add On KirimDigi.png
+Content Type: image/png
+
+Uri: https://kirimdigi-classic.netlify.app/build/assets/bootstrap-vCaDZZbr-1.css
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\build\assets\bootstrap-vCaDZZbr-1.css
+Content Type: text/css
+
+Uri: https://kirimdigi-classic.netlify.app/build/assets/reseller-DpNVLGCy.css
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\build\assets\reseller-DpNVLGCy.css
+Content Type: text/css
+
+Uri: https://kirimdigi-classic.netlify.app/css2-1?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\css2-1
+Content Type: text/plain
+
+Uri: https://kirimdigi-classic.netlify.app/tema-10?cursor=eyJpZCI6NTcsIl9wb2ludHNUb05leHRJdGVtcyI6ZmFsc2V9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-10.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-1?cursor=eyJpZCI6NDc5LCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-2?cursor=eyJpZCI6NDc4LCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-2.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-3?cursor=eyJpZCI6MzY1LCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-3.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-4?cursor=eyJpZCI6MzYzLCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-4.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-5?cursor=eyJpZCI6MjYxLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-5.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-6?cursor=eyJpZCI6MjYwLCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-6.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-7?cursor=eyJpZCI6MTU3LCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-7.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-8?cursor=eyJpZCI6MTU2LCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-8.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema-9?cursor=eyJpZCI6NTgsIl9wb2ludHNUb05leHRJdGVtcyI6dHJ1ZX0
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema-9.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/aqiqah-dan-tasmiyah
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\aqiqah-dan-tasmiyah.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/aqiqah-dan-tasmiyah.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\aqiqah-dan-tasmiyah-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/birthday
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\birthday.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/birthday.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\birthday-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/islami
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\islami.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/islami.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\islami-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/natal
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\natal.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/natal.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\natal-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/party
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\party.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/party.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\party-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/school
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\school.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/school.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\school-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/umum
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\umum.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/umum-1?cursor=eyJpZCI6MTE2LCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\umum-1-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/umum-2?cursor=eyJpZCI6MTE0LCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\umum-2.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/umum.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\umum-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/undangan-khitan-digital
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\undangan-khitan-digital.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/undangan-khitan-digital.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\undangan-khitan-digital-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/wedding
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\wedding.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/wedding-1?cursor=eyJpZCI6MzYwLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\wedding-1-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/wedding-2?cursor=eyJpZCI6MzU5LCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\wedding-2.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/wedding-3?cursor=eyJpZCI6MTYzLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\wedding-3.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/wedding-4?cursor=eyJpZCI6MTU4LCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\wedding-4.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/tema/wedding.html
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\tema\wedding-1.html
+Content Type: text/html
+
+Uri: https://kirimdigi-classic.netlify.app/themes/2tahun-uici/2tahun-uici.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\2tahun-uici\2tahun-uici.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/aceh-jawa/aceh-jawa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\aceh-jawa\aceh-jawa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-aceh/adat-aceh.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-aceh\adat-aceh.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-batak/adat-batak.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-batak\adat-batak.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-betawi/adat-betawi.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-betawi\adat-betawi.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-bone/adat-bone.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-bone\adat-bone.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-bugis-flat/adat-bugis-flat.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-bugis-flat\adat-bugis-flat.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-bugis/adat-bugis.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-bugis\adat-bugis.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-jawa/adat-jawa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-jawa\adat-jawa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-karo/adat-karo.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-karo\adat-karo.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-makassar/adat-makassar.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-makassar\adat-makassar.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-minang/adat-minang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-minang\adat-minang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-papua/adat-papua.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-papua\adat-papua.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-rote/adat-rote.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-rote\adat-rote.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-selaso/adat-selaso.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-selaso\adat-selaso.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-sumatera/adat-sumatera.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-sumatera\adat-sumatera.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/adat-sunda/adat-sunda.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\adat-sunda\adat-sunda.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/aesthetic-java/aesthetic-java.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\aesthetic-java\aesthetic-java.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/aesthetic-victorian/aesthetic-victorian.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\aesthetic-victorian\aesthetic-victorian.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/alexandra/alexandra.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\alexandra\alexandra.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/almond-flowers/almond-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\almond-flowers\almond-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ampera-maroon/ampera-maroon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ampera-maroon\ampera-maroon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/angela/angela.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\angela\angela.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/apoteker/apoteker.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\apoteker\apoteker.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/apresiasi-kelulusan/apresiasi-kelulusan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\apresiasi-kelulusan\apresiasi-kelulusan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/argentina-birthday/argentina-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\argentina-birthday\argentina-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/arminareka/arminareka.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\arminareka\arminareka.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/art-blue-java/art-blue-java.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\art-blue-java\art-blue-java.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/artichoke/artichoke.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\artichoke\artichoke.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/astronout/astronout.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\astronout\astronout.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/auntumn/auntumn.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\auntumn\auntumn.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/avengers/avengers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\avengers\avengers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/aysha/aysha.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\aysha\aysha.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/azureish-white/azureish-white.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\azureish-white\azureish-white.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/baby-blue/baby-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\baby-blue\baby-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/baby-boss/baby-boss.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\baby-boss\baby-boss.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/baby-elephant/baby-elephant.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\baby-elephant\baby-elephant.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/baby-giggles/baby-giggles.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\baby-giggles\baby-giggles.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/baby-shark/baby-shark.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\baby-shark\baby-shark.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bali-land/bali-land.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bali-land\bali-land.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bali-paper-ink/bali-paper-ink.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bali-paper-ink\bali-paper-ink.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/banjar-jawa/banjar-jawa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\banjar-jawa\banjar-jawa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/banjar-kuning/banjar-kuning.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\banjar-kuning\banjar-kuning.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bare-bears/bare-bears.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bare-bears\bare-bears.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/batak-minang/batak-minang.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\batak-minang\batak-minang.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bataknese/bataknese.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bataknese\bataknese.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/batik-ntt/batik-ntt.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\batik-ntt\batik-ntt.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/batik-nusantara/batik-nusantara.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\batik-nusantara\batik-nusantara.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/be-the-light/be-the-light.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\be-the-light\be-the-light.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/beach-club/beach-club.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\beach-club\beach-club.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/beach-of-happiness/beach-of-happiness.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\beach-of-happiness\beach-of-happiness.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/beautiful-aqsa/beautiful-aqsa.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\beautiful-aqsa\beautiful-aqsa.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/beautiful-bali/beautiful-bali.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\beautiful-bali\beautiful-bali.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/beautiful-flower/beautiful-flower.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\beautiful-flower\beautiful-flower.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/berinovasi/berinovasi.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\berinovasi\berinovasi.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bersinergi/bersinergi.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bersinergi\bersinergi.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/betawi-jawa/betawi-jawa.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\betawi-jawa\betawi-jawa.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/betawi-minang/betawi-minang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\betawi-minang\betawi-minang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/betawi-vintage/betawi-vintage.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\betawi-vintage\betawi-vintage.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bincang-seru/bincang-seru.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bincang-seru\bincang-seru.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bird-charm/bird-charm.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bird-charm\bird-charm.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/birthday-beach/birthday-beach.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\birthday-beach\birthday-beach.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/birthday-bus/birthday-bus.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\birthday-bus\birthday-bus.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/birthday-girl/birthday-girl.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\birthday-girl\birthday-girl.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/biru-jawa/biru-jawa.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\biru-jawa\biru-jawa.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-and-white/black-and-white.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-and-white\black-and-white.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-birthday/black-birthday.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-birthday\black-birthday.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-brown/black-brown.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-brown\black-brown.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-coral/black-coral.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-coral\black-coral.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-glitter/black-glitter.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-glitter\black-glitter.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-gold/black-gold.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-gold\black-gold.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-java/black-java.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-java\black-java.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/black-leaves/black-leaves.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\black-leaves\black-leaves.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-casanova/blue-casanova.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-casanova\blue-casanova.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-floral/blue-floral.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-floral\blue-floral.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-gold/blue-gold.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-gold\blue-gold.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-graduation/blue-graduation.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-graduation\blue-graduation.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-javanese/blue-javanese.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-javanese\blue-javanese.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-metalic/blue-metalic.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-metalic\blue-metalic.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-night/blue-night.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-night\blue-night.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-roses/blue-roses.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-roses\blue-roses.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-school/blue-school.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-school\blue-school.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-sd/blue-sd.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-sd\blue-sd.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-seventeen/blue-seventeen.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-seventeen\blue-seventeen.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-watercolor/blue-watercolor.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-watercolor\blue-watercolor.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-wedding/blue-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-wedding\blue-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/blue-white/blue-white.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\blue-white\blue-white.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/boboiboy/boboiboy.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\boboiboy\boboiboy.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/boho-terracotta/boho-terracotta.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\boho-terracotta\boho-terracotta.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/boho-wedding/boho-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\boho-wedding\boho-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bon-voyage-merah-putih/bon-voyage-merah-putih.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bon-voyage-merah-putih\bon-voyage-merah-putih.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bonvoyage-v2/bonvoyage-v2.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bonvoyage-v2\bonvoyage-v2.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bonvoyage-v3/bonvoyage-v3.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bonvoyage-v3\bonvoyage-v3.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bonvoyage/bonvoyage.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bonvoyage\bonvoyage.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bpjs/bpjs.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bpjs\bpjs.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/brand-rejuvenation/brand-rejuvenation.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\brand-rejuvenation\brand-rejuvenation.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/brown-flowers/brown-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\brown-flowers\brown-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/brown-leaves/brown-leaves.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\brown-leaves\brown-leaves.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/brown-passport/brown-passport.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\brown-passport\brown-passport.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/budaya-aceh/budaya-aceh.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\budaya-aceh\budaya-aceh.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/budaya-batak/budaya-batak.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\budaya-batak\budaya-batak.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bugis-culture/bugis-culture.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bugis-culture\bugis-culture.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bugis-emerald/bugis-emerald.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bugis-emerald\bugis-emerald.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bugis-maroon/bugis-maroon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bugis-maroon\bugis-maroon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bugis-minang/bugis-minang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bugis-minang\bugis-minang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bugis-pink/bugis-pink.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bugis-pink\bugis-pink.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bunga-bunga/bunga-bunga.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bunga-bunga\bunga-bunga.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/bunny-pastel/bunny-pastel.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\bunny-pastel\bunny-pastel.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/camelia/camelia.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\camelia\camelia.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/candlelit/candlelit.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\candlelit\candlelit.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/carolina-blue/carolina-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\carolina-blue\carolina-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/caroline/caroline.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\caroline\caroline.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/casanova/casanova.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\casanova\casanova.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cathrine/cathrine.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cathrine\cathrine.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ceremony/ceremony.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ceremony\ceremony.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/charlene/charlene.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\charlene\charlene.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/charm-birthday/charm-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\charm-birthday\charm-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cherry-blossom/cherry-blossom.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cherry-blossom\cherry-blossom.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/chestnut-art/chestnut-art.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\chestnut-art\chestnut-art.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/child-cafe/child-cafe.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\child-cafe\child-cafe.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/chinese-wedding/chinese-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\chinese-wedding\chinese-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/christmas-party/christmas-party.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\christmas-party\christmas-party.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/christmas-watercolor/christmas-watercolor.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\christmas-watercolor\christmas-watercolor.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cinderella/cinderella.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cinderella\cinderella.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cinnamoroll/cinnamoroll.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cinnamoroll\cinnamoroll.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/classic-blue/classic-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\classic-blue\classic-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/classic-parthenon/classic-parthenon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\classic-parthenon\classic-parthenon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/classic-wedding/classic-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\classic-wedding\classic-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cocomelon/cocomelon.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cocomelon\cocomelon.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/colored-beach/colored-beach.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\colored-beach\colored-beach.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/company-retreat/company-retreat.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\company-retreat\company-retreat.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/conference/conference.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\conference\conference.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/content-creator/content-creator.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\content-creator\content-creator.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/crayola-flowers/crayola-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\crayola-flowers\crayola-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cream-cute/cream-cute.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cream-cute\cream-cute.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cream-japan/cream-japan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cream-japan\cream-japan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cream-lampung/cream-lampung.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cream-lampung\cream-lampung.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cream-purple/cream-purple.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cream-purple\cream-purple.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/creamy-coral/creamy-coral.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\creamy-coral\creamy-coral.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cristian/cristian.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cristian\cristian.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cross-break/cross-break.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cross-break\cross-break.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/cute-java/cute-java.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\cute-java\cute-java.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/daisy-gray/daisy-gray.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\daisy-gray\daisy-gray.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dark-brown/dark-brown.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dark-brown\dark-brown.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dark-green/dark-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dark-green\dark-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dark-purple/dark-purple.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dark-purple\dark-purple.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dayak-java/dayak-java.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dayak-java\dayak-java.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dayak-jawa/dayak-jawa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dayak-jawa\dayak-jawa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dayak-kalbar/dayak-kalbar.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dayak-kalbar\dayak-kalbar.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dayak-kalteng/dayak-kalteng.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dayak-kalteng\dayak-kalteng.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dayak-toraja/dayak-toraja.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dayak-toraja\dayak-toraja.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dies-natalis/dies-natalis.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dies-natalis\dies-natalis.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dino-birthday/dino-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dino-birthday\dino-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/diploma/diploma.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\diploma\diploma.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dolphin-green/dolphin-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dolphin-green\dolphin-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/dried-leaves-2/dried-leaves-2.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\dried-leaves-2\dried-leaves-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/eid-mubarak/eid-mubarak.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\eid-mubarak\eid-mubarak.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/elegant-aceh/elegant-aceh.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\elegant-aceh\elegant-aceh.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/elegant-blue/elegant-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\elegant-blue\elegant-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/elegant-graduation/elegant-graduation.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\elegant-graduation\elegant-graduation.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/elegant-islamic/elegant-islamic.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\elegant-islamic\elegant-islamic.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/elegant-red/elegant-red.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\elegant-red\elegant-red.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/elegant-wedding/elegant-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\elegant-wedding\elegant-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/emerald-ampera/emerald-ampera.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\emerald-ampera\emerald-ampera.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/emily/emily.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\emily\emily.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/engagement/engagement.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\engagement\engagement.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/enter-house/enter-house.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\enter-house\enter-house.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/esther/esther.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\esther\esther.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ethnic-pattern/ethnic-pattern.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ethnic-pattern\ethnic-pattern.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/event-launching/event-launching.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\event-launching\event-launching.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/exclusive-launch/exclusive-launch.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\exclusive-launch\exclusive-launch.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/exclusive-ramadhan/exclusive-ramadhan.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\exclusive-ramadhan\exclusive-ramadhan.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/fairy-birthday/fairy-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\fairy-birthday\fairy-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/fairy-purple/fairy-purple.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\fairy-purple\fairy-purple.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/fairy-tail/fairy-tail.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\fairy-tail\fairy-tail.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/feminime-javanese/feminime-javanese.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\feminime-javanese\feminime-javanese.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/flamingo/flamingo.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\flamingo\flamingo.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/flat-islamic/flat-islamic.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\flat-islamic\flat-islamic.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/floral-purple/floral-purple.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\floral-purple\floral-purple.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/food-business/food-business.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\food-business\food-business.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/forever-journey/forever-journey.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\forever-journey\forever-journey.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/frozen/frozen.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\frozen\frozen.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/fuchsia-adat/fuchsia-adat.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\fuchsia-adat\fuchsia-adat.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gadang/gadang.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gadang\gadang.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/galaxy/galaxy.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\galaxy\galaxy.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/galungan/galungan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\galungan\galungan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/garden-party/garden-party.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\garden-party\garden-party.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/garuda/garuda.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\garuda\garuda.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gold-black-silver/gold-black-silver.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gold-black-silver\gold-black-silver.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gold-christmas/gold-christmas.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gold-christmas\gold-christmas.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gold-gathering/gold-gathering.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gold-gathering\gold-gathering.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gold-islamic/gold-islamic.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gold-islamic\gold-islamic.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gold-marble/gold-marble.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gold-marble\gold-marble.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/golden-blue/golden-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\golden-blue\golden-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/golden-watercolor/golden-watercolor.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\golden-watercolor\golden-watercolor.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/golf-birthday/golf-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\golf-birthday\golf-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/gradient-black/gradient-black.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\gradient-black\gradient-black.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/graduation-ceremony/graduation-ceremony.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\graduation-ceremony\graduation-ceremony.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/graduation/graduation.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\graduation\graduation.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/grand-launching/grand-launching.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\grand-launching\grand-launching.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/grand-opening/grand-opening.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\grand-opening\grand-opening.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/great-talents/great-talents.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\great-talents\great-talents.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-aniv/green-aniv.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-aniv\green-aniv.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-bunex/green-bunex.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-bunex\green-bunex.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-floral/green-floral.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-floral\green-floral.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-garden/green-garden.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-garden\green-garden.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-hospital/green-hospital.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-hospital\green-hospital.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-leaves/green-leaves.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-leaves\green-leaves.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-mandala/green-mandala.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-mandala\green-mandala.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-motion/green-motion.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-motion\green-motion.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-passport/green-passport.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-passport\green-passport.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-pink/green-pink.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-pink\green-pink.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-roses/green-roses.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-roses\green-roses.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-school/green-school.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-school\green-school.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-tropical/green-tropical.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-tropical\green-tropical.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/green-watercolor/green-watercolor.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\green-watercolor\green-watercolor.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/halal-bihalal/halal-bihalal.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\halal-bihalal\halal-bihalal.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/hand-drawn/hand-drawn.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\hand-drawn\hand-drawn.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/hangout/hangout.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\hangout\hangout.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/happy-dino/happy-dino.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\happy-dino\happy-dino.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/herbal-care/herbal-care.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\herbal-care\herbal-care.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/heroes-graduation/heroes-graduation.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\heroes-graduation\heroes-graduation.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/heroes/heroes.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\heroes\heroes.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/hogwarts/hogwarts.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\hogwarts\hogwarts.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/honda/honda.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\honda\honda.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/hot-wheels/hot-wheels.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\hot-wheels\hot-wheels.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ice-silver/ice-silver.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ice-silver\ice-silver.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/iftar-time/iftar-time.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\iftar-time\iftar-time.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/imperial-flower/imperial-flower.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\imperial-flower\imperial-flower.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/inagurasi/inagurasi.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\inagurasi\inagurasi.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/indosiar-v1/indosiar-v1.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\indosiar-v1\indosiar-v1.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/indosiar-v2/indosiar-v2.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\indosiar-v2\indosiar-v2.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/indosiar-v3/indosiar-v3.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\indosiar-v3\indosiar-v3.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/infotainment/infotainment.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\infotainment\infotainment.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/investor-night/investor-night.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\investor-night\investor-night.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/invitation-kai/invitation-kai.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\invitation-kai\invitation-kai.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/islamic-blue/islamic-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\islamic-blue\islamic-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/islamic-brown/islamic-brown.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\islamic-brown\islamic-brown.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/islamic-geometric/islamic-geometric.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\islamic-geometric\islamic-geometric.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/islamic-graduation/islamic-graduation.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\islamic-graduation\islamic-graduation.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/islamic-school/islamic-school.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\islamic-school\islamic-school.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/islamic-wedding/islamic-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\islamic-wedding\islamic-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/iwabri/iwabri.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\iwabri\iwabri.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jambore/jambore.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jambore\jambore.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jasper-orange/jasper-orange.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jasper-orange\jasper-orange.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/java-blue/java-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\java-blue\java-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/java-maroon/java-maroon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\java-maroon\java-maroon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/javanese-pastel/javanese-pastel.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\javanese-pastel\javanese-pastel.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/javanese-purple/javanese-purple.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\javanese-purple\javanese-purple.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/javanese-wayang/javanese-wayang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\javanese-wayang\javanese-wayang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/javanese/javanese.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\javanese\javanese.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-asli/jawa-asli.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-asli\jawa-asli.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-banjar/jawa-banjar.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-banjar\jawa-banjar.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-betawi/jawa-betawi.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-betawi\jawa-betawi.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-biru/jawa-biru.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-biru\jawa-biru.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-bugis/jawa-bugis.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-bugis\jawa-bugis.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-melayu/jawa-melayu.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-melayu\jawa-melayu.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-minang/jawa-minang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-minang\jawa-minang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-nias/jawa-nias.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-nias\jawa-nias.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-padang/jawa-padang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-padang\jawa-padang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jawa-palembang/jawa-palembang.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jawa-palembang\jawa-palembang.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jump-graduation/jump-graduation.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jump-graduation\jump-graduation.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/jungle-birthday/jungle-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\jungle-birthday\jungle-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/juwara/juwara.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\juwara\juwara.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/kamboja/kamboja.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\kamboja\kamboja.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/kazaki/kazaki.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\kazaki\kazaki.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/keep-inventing/keep-inventing.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\keep-inventing\keep-inventing.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/kerawang-gayo/kerawang-gayo.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\kerawang-gayo\kerawang-gayo.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/kindergarten/kindergarten.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\kindergarten\kindergarten.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/kuda-macan/kuda-macan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\kuda-macan\kuda-macan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/labschool/labschool.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\labschool\labschool.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/lavender/lavender.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\lavender\lavender.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/leaves-design/leaves-design.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\leaves-design\leaves-design.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/light-blue-flowers/light-blue-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\light-blue-flowers\light-blue-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/lilaq-feather/lilaq-feather.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\lilaq-feather\lilaq-feather.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/line-art-brown/line-art-brown.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\line-art-brown\line-art-brown.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/lion-birthday/lion-birthday.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\lion-birthday\lion-birthday.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/little-racer/little-racer.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\little-racer\little-racer.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/little-unicorn/little-unicorn.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\little-unicorn\little-unicorn.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/lotte-gold/lotte-gold.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\lotte-gold\lotte-gold.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/lotus-wedding/lotus-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\lotus-wedding\lotus-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-brown/luxury-brown.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-brown\luxury-brown.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-dark-blue/luxury-dark-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-dark-blue\luxury-dark-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-gold-maroon/luxury-gold-maroon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-gold-maroon\luxury-gold-maroon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-golden-v2/luxury-golden-v2.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-golden-v2\luxury-golden-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-green/luxury-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-green\luxury-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-hotel/luxury-hotel.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-hotel\luxury-hotel.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-maroon/luxury-maroon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-maroon\luxury-maroon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-navy/luxury-navy.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-navy\luxury-navy.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/luxury-purple/luxury-purple.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\luxury-purple\luxury-purple.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/madura-modern/madura-modern.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\madura-modern\madura-modern.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/magic-castle/magic-castle.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\magic-castle\magic-castle.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/magic-school/magic-school.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\magic-school\magic-school.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/malam-joker/malam-joker.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\malam-joker\malam-joker.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/manasik-haji/manasik-haji.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\manasik-haji\manasik-haji.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mandala-green/mandala-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mandala-green\mandala-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mandala-v2/mandala-v2.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mandala-v2\mandala-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mandala-v3/mandala-v3.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mandala-v3\mandala-v3.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mandaling/mandaling.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mandaling\mandaling.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maple-gold/maple-gold.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maple-gold\maple-gold.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/market-outlook/market-outlook.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\market-outlook\market-outlook.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-and-blue/maroon-and-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-and-blue\maroon-and-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-art/maroon-art.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-art\maroon-art.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-flowers/maroon-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-flowers\maroon-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-javanese/maroon-javanese.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-javanese\maroon-javanese.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-medieval/maroon-medieval.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-medieval\maroon-medieval.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-roses/maroon-roses.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-roses\maroon-roses.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/maroon-watercolor/maroon-watercolor.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\maroon-watercolor\maroon-watercolor.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mayora/mayora.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mayora\mayora.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mcqueen/mcqueen.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mcqueen\mcqueen.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/medieval-kingdom/medieval-kingdom.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\medieval-kingdom\medieval-kingdom.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/melayu/melayu.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\melayu\melayu.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/merak-biru/merak-biru.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\merak-biru\merak-biru.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mermaid-seaweed/mermaid-seaweed.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mermaid-seaweed\mermaid-seaweed.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mermaid/mermaid.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mermaid\mermaid.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mesir/mesir.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mesir\mesir.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mickey-red/mickey-red.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mickey-red\mickey-red.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/midnight-blue/midnight-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\midnight-blue\midnight-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/midnight-green/midnight-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\midnight-green\midnight-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/milad-organisasi/milad-organisasi.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\milad-organisasi\milad-organisasi.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/military/military.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\military\military.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/million-dreams/million-dreams.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\million-dreams\million-dreams.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minang-maroon/minang-maroon.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minang-maroon\minang-maroon.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minangkabau-maroon/minangkabau-maroon.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minangkabau-maroon\minangkabau-maroon.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/miner/miner.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\miner\miner.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minimal-wedding/minimal-wedding.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minimal-wedding\minimal-wedding.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minimalist-black/minimalist-black.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minimalist-black\minimalist-black.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minimalist-blue/minimalist-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minimalist-blue\minimalist-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minimalist-pink/minimalist-pink.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minimalist-pink\minimalist-pink.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minion-birthday/minion-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minion-birthday\minion-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/minnie-mouse/minnie-mouse.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\minnie-mouse\minnie-mouse.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/mughal/mughal.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\mughal\mughal.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/munas/munas.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\munas\munas.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/my-pets/my-pets.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\my-pets\my-pets.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/navy-flowers/navy-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\navy-flowers\navy-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/navy-pink/navy-pink.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\navy-pink\navy-pink.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/newspaper/newspaper.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\newspaper\newspaper.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/night-market/night-market.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\night-market\night-market.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/nikahfix/nikahfix.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\nikahfix\nikahfix.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/novianty/novianty.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\novianty\novianty.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/nurul-fikri/nurul-fikri.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\nurul-fikri\nurul-fikri.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ondel-ondel/ondel-ondel.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ondel-ondel\ondel-ondel.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/opening-ceremony/opening-ceremony.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\opening-ceremony\opening-ceremony.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/opening-party/opening-party.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\opening-party\opening-party.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/orchid-flower/orchid-flower.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\orchid-flower\orchid-flower.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pacman/pacman.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pacman\pacman.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/padang-maroon/padang-maroon.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\padang-maroon\padang-maroon.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/padang/padang.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\padang\padang.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pakpak-banjar/pakpak-banjar.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pakpak-banjar\pakpak-banjar.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/palembang-jawa/palembang-jawa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\palembang-jawa\palembang-jawa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/palembang-lampung/palembang-lampung.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\palembang-lampung\palembang-lampung.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/paskah-btn/paskah-btn.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\paskah-btn\paskah-btn.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/paskah/paskah.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\paskah\paskah.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pastel-blue/pastel-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pastel-blue\pastel-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pastel-green/pastel-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pastel-green\pastel-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/peacocks/peacocks.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\peacocks\peacocks.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pelantikan-dewan/pelantikan-dewan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pelantikan-dewan\pelantikan-dewan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pelantikan/pelantikan.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pelantikan\pelantikan.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pelulusan/pelulusan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pelulusan\pelulusan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pengukuhan/pengukuhan.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pengukuhan\pengukuhan.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pentas-akhir/pentas-akhir.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pentas-akhir\pentas-akhir.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/peony/peony.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\peony\peony.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/peresmian-balai/peresmian-balai.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\peresmian-balai\peresmian-balai.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/peresmian-rs/peresmian-rs.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\peresmian-rs\peresmian-rs.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pesta-perak/pesta-perak.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pesta-perak\pesta-perak.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/phinisi/phinisi.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\phinisi\phinisi.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pikachu/pikachu.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pikachu\pikachu.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-barbie/pink-barbie.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-barbie\pink-barbie.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-bird/pink-bird.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-bird\pink-bird.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-blossom/pink-blossom.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-blossom\pink-blossom.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-feather/pink-feather.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-feather\pink-feather.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-korea/pink-korea.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-korea\pink-korea.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-lilac/pink-lilac.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-lilac\pink-lilac.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-marble/pink-marble.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-marble\pink-marble.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-night/pink-night.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-night\pink-night.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-orange/pink-orange.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-orange\pink-orange.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-roses/pink-roses.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-roses\pink-roses.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pink-watercolor/pink-watercolor.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pink-watercolor\pink-watercolor.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pinky/pinky.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pinky\pinky.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pinto-aceh/pinto-aceh.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pinto-aceh\pinto-aceh.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/play-khitan/play-khitan.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\play-khitan\play-khitan.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/pool-party/pool-party.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\pool-party\pool-party.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purnasiswa/purnasiswa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purnasiswa\purnasiswa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purnawirawan-polri/purnawirawan-polri.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purnawirawan-polri\purnawirawan-polri.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-carnival/purple-carnival.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-carnival\purple-carnival.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-christmas/purple-christmas.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-christmas\purple-christmas.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-entertainment/purple-entertainment.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-entertainment\purple-entertainment.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-flowers/purple-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-flowers\purple-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-mandala/purple-mandala.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-mandala\purple-mandala.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-marble/purple-marble.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-marble\purple-marble.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/purple-night/purple-night.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\purple-night\purple-night.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/putra-batik/putra-batik.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\putra-batik\putra-batik.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/raden/raden.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\raden\raden.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rama-shinta/rama-shinta.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rama-shinta\rama-shinta.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ramadhan-decorative/ramadhan-decorative.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ramadhan-decorative\ramadhan-decorative.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ramadhan-kareem/ramadhan-kareem.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ramadhan-kareem\ramadhan-kareem.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rapat-kerja/rapat-kerja.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rapat-kerja\rapat-kerja.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rapat-senat/rapat-senat.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rapat-senat\rapat-senat.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rapat-terbuka/rapat-terbuka.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rapat-terbuka\rapat-terbuka.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rapunzel-birthday/rapunzel-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rapunzel-birthday\rapunzel-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rapunzel/rapunzel.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rapunzel\rapunzel.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-batak/red-batak.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-batak\red-batak.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-berry-2/red-berry-2.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-berry-2\red-berry-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-blue/red-blue.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-blue\red-blue.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-carmine/red-carmine.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-carmine\red-carmine.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-chinese/red-chinese.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-chinese\red-chinese.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-football/red-football.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-football\red-football.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-lampung/red-lampung.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-lampung\red-lampung.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-natal/red-natal.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-natal\red-natal.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/red-rustic/red-rustic.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\red-rustic\red-rustic.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/refleksi/refleksi.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\refleksi\refleksi.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/retro-pink/retro-pink.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\retro-pink\retro-pink.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/retro/retro.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\retro\retro.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/roblox/roblox.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\roblox\roblox.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/romantic-floral/romantic-floral.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\romantic-floral\romantic-floral.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rounded-luxurious/rounded-luxurious.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rounded-luxurious\rounded-luxurious.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/royal-birthday/royal-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\royal-birthday\royal-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/royal-purple/royal-purple.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\royal-purple\royal-purple.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/rumah-gadang/rumah-gadang.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\rumah-gadang\rumah-gadang.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sage-green/sage-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sage-green\sage-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sakura-castle/sakura-castle.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sakura-castle\sakura-castle.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sakura-theme/sakura-theme.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sakura-theme\sakura-theme.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/salsa/salsa.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\salsa\salsa.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sanrio/sanrio.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sanrio\sanrio.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/school-blue/school-blue.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\school-blue\school-blue.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sctv-35/sctv-35.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sctv-35\sctv-35.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sctv-award/sctv-award.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sctv-award\sctv-award.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/selpia/selpia.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\selpia\selpia.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/semen-bima/semen-bima.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\semen-bima\semen-bima.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sidang-senat/sidang-senat.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sidang-senat\sidang-senat.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sidang-terbuka/sidang-terbuka.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sidang-terbuka\sidang-terbuka.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/silaturahim/silaturahim.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\silaturahim\silaturahim.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/silaturahmi-akbar/silaturahmi-akbar.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\silaturahmi-akbar\silaturahmi-akbar.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/simple-brown/simple-brown.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\simple-brown\simple-brown.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/simple-bugis/simple-bugis.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\simple-bugis\simple-bugis.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/simple-christmas/simple-christmas.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\simple-christmas\simple-christmas.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/skadron-udara/skadron-udara.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\skadron-udara\skadron-udara.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/skibidi-toilet/skibidi-toilet.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\skibidi-toilet\skibidi-toilet.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/smf/smf.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\smf\smf.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/soft-blue/soft-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\soft-blue\soft-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/soft-brown/soft-brown.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\soft-brown\soft-brown.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/songket/songket.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\songket\songket.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/spiderman/spiderman.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\spiderman\spiderman.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/spongebob/spongebob.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\spongebob\spongebob.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/student-perform/student-perform.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\student-perform\student-perform.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sumbawa-jawa/sumbawa-jawa.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sumbawa-jawa\sumbawa-jawa.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sunda-aceh/sunda-aceh.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sunda-aceh\sunda-aceh.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sunda-minang/sunda-minang.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sunda-minang\sunda-minang.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sundar-bageecha/sundar-bageecha.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sundar-bageecha\sundar-bageecha.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/sunflower/sunflower.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\sunflower\sunflower.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tahfiz-graduation/tahfiz-graduation.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tahfiz-graduation\tahfiz-graduation.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tekno-blue/tekno-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tekno-blue\tekno-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/terracotta/terracotta.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\terracotta\terracotta.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/the-golden-future/the-golden-future.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\the-golden-future\the-golden-future.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/timeless/timeless.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\timeless\timeless.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/toraja/toraja.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\toraja\toraja.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tosca-green/tosca-green.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tosca-green\tosca-green.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/trampolin/trampolin.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\trampolin\trampolin.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tree-of-bird/tree-of-bird.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tree-of-bird\tree-of-bird.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tropical-plants/tropical-plants.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tropical-plants\tropical-plants.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tropical/tropical.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tropical\tropical.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tuku/tuku.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tuku\tuku.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/turkish-green/turkish-green.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\turkish-green\turkish-green.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tuscany-blue/tuscany-blue.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tuscany-blue\tuscany-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/tutti-fruity/tutti-fruity.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\tutti-fruity\tutti-fruity.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ucapan-perpisahan/ucapan-perpisahan.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ucapan-perpisahan\ucapan-perpisahan.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ultraman/ultraman.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ultraman\ultraman.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/under-the-sea/under-the-sea.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\under-the-sea\under-the-sea.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/unicorn-party/unicorn-party.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\unicorn-party\unicorn-party.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/universe/universe.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\universe\universe.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/victorian-cupid/victorian-cupid.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\victorian-cupid\victorian-cupid.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/victorious-day/victorious-day.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\victorious-day\victorious-day.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/vine-flower/vine-flower.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\vine-flower\vine-flower.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/vintage-birthday/vintage-birthday.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\vintage-birthday\vintage-birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/vintage-cream/vintage-cream.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\vintage-cream\vintage-cream.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/vintage-forest/vintage-forest.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\vintage-forest\vintage-forest.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/vintage-moment/vintage-moment.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\vintage-moment\vintage-moment.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/vintage-peacock/vintage-peacock.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\vintage-peacock\vintage-peacock.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/walimatul-khitan/walimatul-khitan.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\walimatul-khitan\walimatul-khitan.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/watercolor-bird/watercolor-bird.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\watercolor-bird\watercolor-bird.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/watercolor-flowers/watercolor-flowers.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\watercolor-flowers\watercolor-flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/watercolor-peacock/watercolor-peacock.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\watercolor-peacock\watercolor-peacock.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/watercolor-pink/watercolor-pink.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\watercolor-pink\watercolor-pink.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wayang-jawa/wayang-jawa.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wayang-jawa\wayang-jawa.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wayang-kulit/wayang-kulit.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wayang-kulit\wayang-kulit.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wedding-celebration/wedding-celebration.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wedding-celebration\wedding-celebration.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wedding-flowers/wedding-flowers.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wedding-flowers\wedding-flowers.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wedding-passport/wedding-passport.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wedding-passport\wedding-passport.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wedding-watercolor/wedding-watercolor.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wedding-watercolor\wedding-watercolor.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/white-gold/white-gold.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\white-gold\white-gold.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/white-kingdom/white-kingdom.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\white-kingdom\white-kingdom.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/winnie-the-pooh/winnie-the-pooh.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\winnie-the-pooh\winnie-the-pooh.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wisuda-akbar/wisuda-akbar.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wisuda-akbar\wisuda-akbar.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wisuda-emas/wisuda-emas.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wisuda-emas\wisuda-emas.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wisuda-harmoni/wisuda-harmoni.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wisuda-harmoni\wisuda-harmoni.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wisuda-merah-putih/wisuda-merah-putih.webp
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wisuda-merah-putih\wisuda-merah-putih.webp
+Content Type: image/webp
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wisuda-perwira/wisuda-perwira.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wisuda-perwira\wisuda-perwira.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wisuda-sarjana/wisuda-sarjana.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wisuda-sarjana\wisuda-sarjana.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wonderful/wonderful.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wonderful\wonderful.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/wow-batik/wow-batik.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\wow-batik\wow-batik.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/year-end-gathering/year-end-gathering.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\year-end-gathering\year-end-gathering.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/ylang-ylang/ylang-ylang.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\ylang-ylang\ylang-ylang.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimdigi-classic.netlify.app/themes/yoru-no-ryusei/yoru-no-ryusei.jpg
+File Name: C:\Downloaded Web Sites\kirimdigi-classic.netlify.app\themes\yoru-no-ryusei\yoru-no-ryusei.jpg
+Content Type: image/jpeg
+
